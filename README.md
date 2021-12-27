@@ -1,5 +1,7 @@
 # Super Mario War
 
+*I only ported the game to Wii U, I did not create the game, as seen below.*
+
 ![Linux status][build-linux-img] ![Windows status][build-mingw-img] [![AppVeyor][appveyor-img]][appveyor-link] [![Discord][discord-img]][discord-link]
 
 Super Mario War is a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. You can play on teams, design your own levels, design your own worlds, and much more!
