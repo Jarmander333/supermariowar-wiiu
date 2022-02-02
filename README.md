@@ -1,5 +1,7 @@
 # Super Mario War
 
+# THE WIIU VERSION IS NOWHERE NEAR FINISHED, I HAD TO RESTART PORTING IT DUE TO A VARIETY OF TECHNICAL DIFFICULTIES, AND GENERAL LAZINESS.
+
 *I only ported the game to Wii U, I did not create the game, as seen below.*
 
 ![Linux status][build-linux-img] ![Windows status][build-mingw-img] [![AppVeyor][appveyor-img]][appveyor-link] [![Discord][discord-img]][discord-link]
